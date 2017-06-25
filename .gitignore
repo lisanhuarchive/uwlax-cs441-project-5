@@ -1,0 +1,3 @@
+*.o
+*.dSYM
+check_mode
